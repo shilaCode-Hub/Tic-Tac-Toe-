@@ -20,6 +20,6 @@ Reset the game anytime with Reset Score 🔄.
 HTML: Button layout, result display, and score sections.
 CSS: Circular buttons, emoji styling, spacing, and fonts.
 JavaScript: Game logic, score updating, localStorage, AutoPlay, and interactive DOM manipulation.
-<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/a2443071-157a-4c8a-a7e1-1a4b5659734c" />
 
+<img width="1920" height="854" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/83648b81-7187-4f7a-b684-45cd3513ca12" />
 
